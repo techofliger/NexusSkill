@@ -1,0 +1,6 @@
+{
+  "name": "NexusSkill - Academia-Industry Collaboration & Placement Portal",
+  "description": "Next-generation Academia-Industry collaboration platform for AI skill mapping, dynamic gap analysis, verified digital portfolios, faculty & student internships, and intelligent placement matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
